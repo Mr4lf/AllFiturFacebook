@@ -12,12 +12,12 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy" =================BLACK CODER CRUSH================"$i"|"
+echo $i" |"$cy" ================BLACK CODER CRUSH=============="$i"|"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" Mr4lf  [Gua Gans Tq :v]"$i"             |"
 echo $i" |"$pu" FACEBOOK :"$ku" Lia Slengkefoy"$i"                    |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [Allah SWT] [MrTr3vion] [Adwa]"$i"  |"
-echo $i" |"$cy"                 ~ [Akin.php] [Dfv47] [Accil]"$i"      |"
+echo $i" |"$cy"             ~ [Akin.php] [Dfv47] [Accil]"$i"      |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 083815983767"$i"              |"
 echo $i" |"$pu" Contack Gmail :"$ku"ayakkhanz01@gmail.com"$i"         |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
